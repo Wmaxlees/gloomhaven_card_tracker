@@ -1,0 +1,1 @@
+# gloomhaven_card_tracker
